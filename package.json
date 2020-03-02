@@ -1,0 +1,18 @@
+{
+  "name": "10.-liri",
+  "version": "1.0.0",
+  "description": "This repository contains my liri-node-app homework.",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "node-spotify-api": "^1.1.1",
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
